@@ -1,0 +1,9 @@
+Passo-a-Passo para executar a teste de automação
+
+Instruções para executar a suite de automação:
+- Descompactar aquirvo .zip
+- Importar na IDE (Eclipse) da sua maquina
+- Adicionar a pasta com os drivers no path do windows
+- Teste do projeto poderá ser executado no navegador chrome (através do ChromeDriver)
+
+
